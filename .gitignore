@@ -1,1 +1,5 @@
 tba.env
+
+# Ignore generated 2026 teams info
+2026/teams/
+2026/plots/
